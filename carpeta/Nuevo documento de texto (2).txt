@@ -1,0 +1,16 @@
+Crear un directorio                          $mkdir "nombre_del_directorio"
+Comenzar un repositorio                      $git init 
+Hacer seguimiento de un archivo              $git add 
+Hacer seguimiento masivo                     $git add . 
+Hacer un commit                              $git commit -m "motivo_del_commit"
+Vincular repositorio local con repo remoto   $git remote add origin "link del repositorio"
+Crear "rama" o "branch"                      $git branch "nombre_de_la_rama"
+Cambiar de repo main a "branch"              $git checkout "nombre_de_la_rama"
+Enviar mi progreso al repositorio remoto     $git push origin main
+Crear archivos dentro de mi directorio       $git touch "nombre_del_archivo."escribir_formato_ej_txt"
+Ver que hay dentro del directorio            $ls
+Renombrar un directorio o archivo            $mv "nombre_original_del_archivo" "nombre_nuevo"
+Enviar mi progreso a una "rama"              $git push -u origin "nombre_de_rama"
+Crear un archivo                             $touch 
+Ver ubicacion actual                         $pwd
+Eliminar archivo                             $rm
